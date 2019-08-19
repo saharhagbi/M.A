@@ -24,8 +24,6 @@ public class UI
         int userChoice;
         Scanner menuInteger = new Scanner(System.in);
 
-        System.out.println("first change for merging");
-
         showMenu();
         userChoice = menuInteger.nextInt();
 
