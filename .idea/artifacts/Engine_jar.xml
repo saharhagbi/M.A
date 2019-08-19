@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Engine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Engine_jar</output-path>
+    <root id="archive" name="Engine.jar">
+      <element id="module-output" name="Engine" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-collections4-4.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-io-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-codec-1.12.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
